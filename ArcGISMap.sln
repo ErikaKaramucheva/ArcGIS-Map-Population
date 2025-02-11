@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcGISMap", "ArcGISMap.csproj", "{852FBC30-D8AE-4336-87C5-16D4B4ECECB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852FBC30-D8AE-4336-87C5-16D4B4ECECB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852FBC30-D8AE-4336-87C5-16D4B4ECECB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852FBC30-D8AE-4336-87C5-16D4B4ECECB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852FBC30-D8AE-4336-87C5-16D4B4ECECB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C89EF43-A1A3-44C1-85EA-01A4DAFE8726}
+	EndGlobalSection
+EndGlobal
